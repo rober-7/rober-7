@@ -17,14 +17,18 @@ Me interesa el desarrollo de software (backend, web y mobile), los sistemas dist
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?logo=nestjs&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?logo=graphql&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?logo=rabbitmq&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 
 | Área | Lo que uso |
 |---|---|
-| Backend | Java, Python, FastAPI, SQLAlchemy, Alembic, PostgreSQL, JWT |
-| Frontend | React, Vite, TypeScript, Tailwind CSS, HTML/CSS |
+| Backend | Java, Python, FastAPI, NestJS, SQLAlchemy, Alembic, PostgreSQL, JWT |
+| Arquitectura | Microservicios, REST, GraphQL, gRPC, mensajería con RabbitMQ |
+| Frontend | React, Vite, TypeScript, Tailwind CSS, React-Bootstrap, HTML/CSS |
 | Mobile | Kotlin (Android) |
 | Concurrencia y sistemas distribuidos | Java (concurrencia avanzada), servicios web |
 | QA / Testing | Pytest, Selenium, Postman |
@@ -39,7 +43,7 @@ Me interesa el desarrollo de software (backend, web y mobile), los sistemas dist
 | Proyecto | Qué es | Stack | Mi rol |
 |---|---|---|---|
 | **[LibrApp](https://github.com/csantander93/LibrApp)** | Plataforma web para ubicar libros en la Librería Rodolfo Walsh (UNLa) con un mapa 2D interactivo de estantes, autoconsulta pública y panel de administración con login. Incluye ABM de catálogo e importador de inventario desde Excel/CSV. | Python, FastAPI, PostgreSQL, React, TypeScript, Docker Compose | Integrante del equipo de 4: documentación del proyecto e implementación. |
-| **[Rentar](https://github.com/rober-7/rentar-sistema-distribuido)** | Sistema de alquiler de vehículos desarrollado en 3 hitos para la materia Desarrollo de Software en Sistemas Distribuidos. | [completá el stack] | Integrante del equipo de 5. |
+| **[Rentar](https://github.com/rober-7/rentar-sistema-distribuido)** | Sistema de alquiler de vehículos con arquitectura de microservicios, desarrollado en 3 hitos para la materia Desarrollo de Software en Sistemas Distribuidos. Frontend en React, API Gateway con REST (Swagger) y GraphQL, autenticación JWT con roles admin/cliente, 5 microservicios conectados por gRPC y eventos asíncronos con RabbitMQ (con dead letter queue para errores). Todo se levanta con un solo comando con Docker Compose. | React, Vite, NestJS, Python, gRPC, RabbitMQ, PostgreSQL (una base por servicio), Docker Compose | Integrante del equipo de 5. |
 
 ### 💻 Académicos y personales
 
