@@ -3,7 +3,7 @@
 ### Analista Programador Universitario
 **Estudiante avanzado de Licenciatura en Sistemas (UNLa), a 2 materias de recibirme** · Buenos Aires, Argentina
 
-Me interesa el desarrollo de software (backend, web y mobile), los sistemas distribuidos y el testing/QA. Me gusta trabajar en equipo y llevar los proyectos de punta a punta: desde el análisis funcional hasta la implementación.
+Me interesa el desarrollo de software (backend, web y mobile) y el testing/QA. Me gusta trabajar en equipo y llevar los proyectos de punta a punta: desde el análisis funcional hasta la implementación.
 
 [LinkedIn](https://www.linkedin.com/in/roberto-gonzalez7/) · [rgonzaleez.37@gmail.com](mailto:rgonzaleez.37@gmail.com)
 
