@@ -1,7 +1,9 @@
 # Hola, soy Rober 👋
 
-**Estudiante de Licenciatura en Sistemas (UNLa)** · Buenos Aires, Argentina
-Me interesa el desarrollo de software (backend, web y mobile) y el testing/QA.
+### Analista Programador Universitario
+**Estudiante avanzado de Licenciatura en Sistemas (UNLa), a 2 materias de recibirme** · Buenos Aires, Argentina
+
+Me interesa el desarrollo de software (backend, web y mobile), los sistemas distribuidos y el testing/QA. Me gusta trabajar en equipo y llevar los proyectos de punta a punta: desde el análisis funcional hasta la implementación.
 
 [LinkedIn](https://www.linkedin.com/in/roberto-gonzalez7/) · [Email: completá acá]
 
@@ -9,8 +11,10 @@ Me interesa el desarrollo de software (backend, web y mobile) y el testing/QA.
 
 ## 🛠️ Tecnologías
 
+![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
@@ -19,31 +23,43 @@ Me interesa el desarrollo de software (backend, web y mobile) y el testing/QA.
 
 | Área | Lo que uso |
 |---|---|
+| Backend | Java, Python, FastAPI, SQLAlchemy, Alembic, PostgreSQL, JWT |
+| Frontend | React, Vite, TypeScript, Tailwind CSS, HTML/CSS |
 | Mobile | Kotlin (Android) |
-| Backend | Python, FastAPI, SQLAlchemy, PostgreSQL |
-| Frontend | React + Vite |
+| Concurrencia y sistemas distribuidos | Java (concurrencia avanzada), servicios web |
 | QA / Testing | Pytest, Selenium, Postman |
 | Herramientas | Git (Git Flow), Docker Compose, GitHub Actions |
 
 ---
 
-## 🚀 Proyectos destacados
+## 🚀 Proyectos
+
+### 👥 En equipo
+
+| Proyecto | Qué es | Stack | Mi rol |
+|---|---|---|---|
+| **[LibrApp](https://github.com/csantander93/LibrApp)** | Plataforma web para ubicar libros en la Librería Rodolfo Walsh (UNLa) con un mapa 2D interactivo de estantes, autoconsulta pública y panel de administración con login. Incluye ABM de catálogo e importador de inventario desde Excel/CSV. | Python, FastAPI, PostgreSQL, React, TypeScript, Docker Compose | Integrante del equipo de 4: documentación del proyecto e implementación. |
+| **[Rentar](https://github.com/rober-7/rentar-sistema-distribuido)** | Sistema de alquiler de vehículos desarrollado en 3 hitos para la materia Desarrollo de Software en Sistemas Distribuidos. | [completá el stack] | Integrante del equipo de 5. |
+
+### 💻 Académicos y personales
 
 | Proyecto | Qué es | Stack |
 |---|---|---|
-| **[Presupuestá](https://github.com/rober-7/NOMBRE-DEL-REPO)** | Web para calcular presupuestos de electricidad domiciliaria con la lista mensual de precios de referencia. [completá cuando esté subido] | [completá] |
-| **[LibrApp](https://github.com/csantander93/LibrApp)** | Mapa interactivo de la librería Rodolfo Walsh (UNLa Editorial). Proyecto en equipo de 4: contribuyo al desarrollo. | React, FastAPI, PostgreSQL, Docker |
-| **[App de cascos de moto](https://github.com/rober-7/proyectoOficial)** | App Android con login, registro y listado de productos. | Kotlin |
+| **[ProyectoConcurrencia](https://github.com/rober-7/ProyectoConcurrencia)** | TP de concurrencia avanzada. | Java |
+| **[proyectoBackendCaba](https://github.com/rober-7/proyectoBackendCaba)** | Proyecto backend. [completá una línea de qué hace] | Java |
+| **[Automation Testing (pre-entrega)](https://github.com/rober-7/pre-entrega-automationtesting-roberto-gonzalez)** | Pre-entrega del curso de automatización de testing. [completá: qué prueba] | [completá] |
+| **[proyectoOficial](https://github.com/rober-7/proyectoOficial)** | App Android con inicio de sesión, registro y lista de elementos. | Kotlin |
 
 ---
 
 ## 🎓 Formación
 
-- Licenciatura en Sistemas, Universidad Nacional de Lanús (en curso)
+- **Analista Programador Universitario**
+- Licenciatura en Sistemas, Universidad Nacional de Lanús (2 materias pendientes para finalizar)
 - Curso de automatización de QA con Python
 
 ---
 
 ## 📫 Contacto
 
-Estoy buscando mi primera experiencia en desarrollo / QA. Escribime por LinkedIn.
+Estoy buscando mi primera experiencia profesional en desarrollo o QA. Escribime por [LinkedIn](https://www.linkedin.com/in/roberto-gonzalez7/).
